@@ -38,14 +38,13 @@
 - フレームワーク: RoR, Express, React, Vue
 
 ## 執筆記事
-https://tech.andpad.co.jp/entry/2023/12/19/100000  
-https://qiita.com/KantaHasegawa/items/e3561b2446d5bb02286f  
-https://tech.andpad.co.jp/entry/2023/05/19/100000  
-https://qiita.com/KantaHasegawa/items/23b8ed38e31761a3f0d9  
-https://qiita.com/KantaHasegawa/items/ca8d2058ab8d12e75b81  
-https://qiita.com/KantaHasegawa/items/735ea513da58d718d819  
-https://qiita.com/KantaHasegawa/items/3452543c7966bd56bd71  
-https://github.com/KantaHasegawa/export-edge-collections-tool  
+[スタートアップの舞台裏、アンドパッドに新卒一期生として入社して感じたこと](https://tech.andpad.co.jp/entry/2023/12/19/100000)  
+[Goで様々なフォーマットの時刻JSONをtime.Timeとして扱う](https://qiita.com/KantaHasegawa/items/e3561b2446d5bb02286f)  
+[新卒によるRubyKaigi2023参加レポート](https://tech.andpad.co.jp/entry/2023/05/19/100000)  
+[Golang + gorilla/mux + LambdaProxyIntegration + ServerlessFrameworkを動かすまで](https://qiita.com/KantaHasegawa/items/23b8ed38e31761a3f0d9)  
+[Amplify + AuroraServerless(RDS) + AppSyncでバックエンドを構築する](https://qiita.com/KantaHasegawa/items/ca8d2058ab8d12e75b81)  
+[MicrosoftEdgeのコレクションを他のブラウザにブックマークとしてエクスポートするツールを作ったから皆さんに使って欲しい記事](https://qiita.com/KantaHasegawa/items/735ea513da58d718d819)  
+[CloudWatchカスタムメトリクスに任意の値を登録してグラフで監視する](https://qiita.com/KantaHasegawa/items/3452543c7966bd56bd71)  
 
 ## 制作物
 https://github.com/KantaHasegawa/multi_format_time  
@@ -53,6 +52,7 @@ https://github.com/KantaHasegawa/MizuhoEngineeringTimecardSystem-FrontEnd
 https://github.com/KantaHasegawa/MizuhoEngineeringTimecardSystem-BackEnd  
 https://github.com/KantaHasegawa/mahjong-soul-keyboard  
 https://github.com/KantaHasegawa/mahjong-soul-keyboard-backend  
+https://github.com/KantaHasegawa/export-edge-collections-tool  
 
 ## OSS活動
 https://github.com/go-gorm/gorm/pull/6373  
