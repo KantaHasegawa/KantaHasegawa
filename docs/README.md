@@ -38,7 +38,7 @@
 - フレームワーク: RoR, Express, React, Vue
 
 ## 執筆記事
-[Go pkg/errorsのerrors.Cause()を使う時に気を付けること](https://qiita.com/KantaHasegawa/items/99dfb8ff317ebe72b8eb)
+[Go pkg/errorsのerrors.Cause()を使う時に気を付けること](https://qiita.com/KantaHasegawa/items/99dfb8ff317ebe72b8eb)  
 [スタートアップの舞台裏、アンドパッドに新卒一期生として入社して感じたこと](https://tech.andpad.co.jp/entry/2023/12/19/100000)  
 [Goで様々なフォーマットの時刻JSONをtime.Timeとして扱う](https://qiita.com/KantaHasegawa/items/e3561b2446d5bb02286f)  
 [新卒によるRubyKaigi2023参加レポート](https://tech.andpad.co.jp/entry/2023/05/19/100000)  
