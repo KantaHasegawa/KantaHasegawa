@@ -38,6 +38,7 @@
 - フレームワーク: RoR, Express, React, Vue
 
 ## 執筆記事
+[初心者必見！ChatGPTとOSSで爆速プログラミング学習！〜もうつまらない本もプログラミングスクールもいらない〜](https://qiita.com/KantaHasegawa/items/56308da416c5de2e1b13)  
 [Go pkg/errorsのerrors.Cause()を使う時に気を付けること](https://qiita.com/KantaHasegawa/items/99dfb8ff317ebe72b8eb)  
 [スタートアップの舞台裏、アンドパッドに新卒一期生として入社して感じたこと](https://tech.andpad.co.jp/entry/2023/12/19/100000)  
 [Goで様々なフォーマットの時刻JSONをtime.Timeとして扱う](https://qiita.com/KantaHasegawa/items/e3561b2446d5bb02286f)  
