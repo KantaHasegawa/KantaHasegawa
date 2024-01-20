@@ -35,7 +35,6 @@
 
 ## スキル
 - プログラミング言語: Go, Ruby, TypeScript, JavaScript
-- フレームワーク: RoR, Express, React, Vue
 
 ## 執筆記事
 [初心者必見！ChatGPTとOSSで爆速プログラミング学習！〜もうつまらない本もプログラミングスクールもいらない〜](https://qiita.com/KantaHasegawa/items/56308da416c5de2e1b13)  
