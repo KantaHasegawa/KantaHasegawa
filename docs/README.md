@@ -61,7 +61,7 @@ https://github.com/KantaHasegawa/export-edge-collections-tool
 
 ## OSS活動
 https://github.com/go-gorm/gorm/pull/6373  
-https://github.com/classmethod/athena-query/pull/82
+https://github.com/classmethod/athena-query/pull/82  
 https://github.com/Donaldcwl/browser-image-compression/pull/203  
 
 ## 趣味・興味
